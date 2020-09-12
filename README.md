@@ -18,4 +18,4 @@ Default SQLite.
 [Backend Structure](https://github.com/RP1807/ecom_backend/blob/master/backend_structure.pdf)
 
 # Frontend 
-There is another frontend project which consumes these APIs is implemented in ReactJS. Refer 
+There is another frontend project which consumes these APIs is implemented in ReactJS. Refer [ecom_frontend](https://github.com/RP1807/ecom_frontend)
